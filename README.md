@@ -4,7 +4,7 @@ Undergraduate student at IST, working toward full-stack development. I like buil
 
 ---
 
-## Featured project: [Margin](https://github.com/muhammadhuzaifa777/margin)
+## Featured project: [Margin](https://github.com/huzexe/margin)
 
 **A study-notes app that turns rough lecture notes into clean, organized study material.**
 
@@ -21,7 +21,7 @@ You type short notes while you listen. Margin turns them into structured notes w
 
 ---
 
-## Team project: [Rocketrix Ground Station](https://github.com/muhammadhuzaifa777/Rocketrix-GroundStation-Demo)
+## Team project: [Rocketrix Ground Station](https://github.com/huzexe/Rocketrix-GroundStation-Demo)
 
 I'm a team member on the ground station software for our Level 1 high-power rocket. The project is led by [Mohid](https://github.com/M0hid-ai/Rocketrix-GroundStation-Demo).
 
