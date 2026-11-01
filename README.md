@@ -21,6 +21,28 @@ You type short notes while you listen. Margin turns them into structured notes w
 
 ---
 
+## Featured project: [Kairos](https://github.com/huzexe/kairos-demo)
+
+**A mini CRM for marketing agencies: leads, clients, invoices and client health in one place.**
+
+Most CRMs are built for generic sales teams. Kairos follows the way a small agency actually works, from the first Instagram message to a signed client and a paid invoice. It runs on your own computer, so client data stays with you.
+
+- **Dashboard:** recurring income, billed vs collected, win rate, unpaid invoices by age and what needs you today
+- **Pipeline:** drag-and-drop board and list view, hot and cold tags, one-click junk, lost reasons and a lead funnel
+- **Clients:** profiles, contacts, packages and a full timeline of calls, meetings and messages
+- **Follow-ups and meetings:** overdue, today and upcoming, with call links and outcomes
+- **Deliverables:** monthly posts and reels, promised vs delivered
+- **Client health:** an automatic green, yellow or red score for every client
+- **Renewals and lifecycle:** contract alerts, plus onboarding and offboarding checklists
+- **Invoices:** multi-currency PDFs with your logo, tax, partial payments and payment reminders
+- **Reports and tools:** monthly client report PDFs, global search, lead import, Excel and CSV export, and daily backups
+
+The [demo version](https://github.com/huzexe/kairos-demo) is on my profile with limited sections, so do check it out. For the full version, email [muhmmad.huzaifa777@gmail.com](mailto:muhmmad.huzaifa777@gmail.com).
+
+`Python` `Django` `SQLite` `JavaScript` `SortableJS` `ReportLab`
+
+---
+
 ## Team project: [Rocketrix Ground Station](https://github.com/huzexe/Rocketrix-GroundStation-Demo)
 
 I'm a team member on the ground station software for our Level 1 high-power rocket. The project is led by [Mohid](https://github.com/M0hid-ai/Rocketrix-GroundStation-Demo).
