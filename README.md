@@ -1,6 +1,6 @@
 # Hi, I'm Huzaifa
 
-Undergraduate student at IST, working toward full-stack development. I like building tools I actually use, and I care about plain, uncluttered interfaces.
+Undergraduate student at IST, working toward agentic development. I like building tools I actually use, and I care about plain, uncluttered interfaces.
 
 ---
 
